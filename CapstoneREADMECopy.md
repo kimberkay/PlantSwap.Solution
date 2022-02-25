@@ -26,5 +26,6 @@ Feb-24-22
 
 11:30 - 1:00 lunch/walk
 
+1:00 - 2:00 add a few test items to a sheet following swap model to import into API to call in Postman
 
 
