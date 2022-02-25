@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace PlanSwap.Models
+
+namespace PlantSwap.Models
 {
     public class PlantSwapContext : DbContext
     {
