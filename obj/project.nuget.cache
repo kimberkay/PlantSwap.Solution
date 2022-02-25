@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "laHiEzD8C+cVIqdd8RSpApW9M592PubRB0zNvV1tT1PpU6A3CUv+ecm8VRD76NSyTVyMgdJ+wjtEwc6VPRGc9g==",
+  "dgSpecHash": "PAl2uR9zUdywnBy/tEik/GFzkeJR0iFRyBP3GQdeGseUHqDFrC+0kUxfNLdozGBQAXvlPZ2CiV7csI72eh/Bfg==",
   "success": true,
   "projectFilePath": "/Users/kimbrannian/Desktop/PlantSwap.Solution/PlantSwap/PlantSwap.csproj",
   "expectedPackageFiles": [
@@ -24,10 +24,10 @@
     "/Users/kimbrannian/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/mysqlconnector/1.1.0/mysqlconnector.1.1.0.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/pomelo.entityframeworkcore.mysql/5.0.0-alpha.2/pomelo.entityframeworkcore.mysql.5.0.0-alpha.2.nupkg.sha512",
-    "/Users/kimbrannian/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "/Users/kimbrannian/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "/Users/kimbrannian/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "/Users/kimbrannian/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
