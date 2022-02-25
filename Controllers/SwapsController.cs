@@ -20,7 +20,7 @@ namespace PlantSwap.Controllers
       _db = db;
     }
 
-    // GET: api/trails
+    // GET: api/swaps
     [EnableCors("outside")]
     [HttpGet]
     public async Task<ActionResult<IEnumerable<Swap>>>Get(string ingredientToSwap, string cuisineType)
@@ -40,7 +40,7 @@ namespace PlantSwap.Controllers
       return await query.ToListAsync();
     }
 
-    // GET: api/trails/1
+    // GET: api/swaps/1
     [HttpGet("{id}")]
     public async Task<ActionResult<Swap>>GetSwap(int id)
     {
@@ -53,6 +53,15 @@ namespace PlantSwap.Controllers
 
       return swap;
     } 
+
+    [HttpPost]
+    public async Task<ActionResult<Swap>>Post(Swap swap)
+    {
+      _db.Swaps.Add(swap);
+      await _db.SaveChangesAsync();
+
+      return CreatedAtAction(nameof(GetSwap), new { id = swap.SwapId }, swap);
+    }
 
   }
 
