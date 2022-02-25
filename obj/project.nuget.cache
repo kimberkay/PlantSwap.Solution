@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "1c7GLFlLIsqmQy0kCFDKAi8ZLAvseVBJ+mq8bF5HY1zuP8qNzlYtMsx01s4kd3NzHeXmj545tzqGIB0T3YGcRA==",
+  "dgSpecHash": "laHiEzD8C+cVIqdd8RSpApW9M592PubRB0zNvV1tT1PpU6A3CUv+ecm8VRD76NSyTVyMgdJ+wjtEwc6VPRGc9g==",
   "success": true,
   "projectFilePath": "/Users/kimbrannian/Desktop/PlantSwap.Solution/PlantSwap/PlantSwap.csproj",
   "expectedPackageFiles": [
+    "/Users/kimbrannian/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/microsoft.entityframeworkcore/5.0.0/microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.0/microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.0/microsoft.entityframeworkcore.analyzers.5.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/microsoft.entityframeworkcore.design/5.0.0/microsoft.entityframeworkcore.design.5.0.0.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.0/microsoft.entityframeworkcore.relational.5.0.0.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
