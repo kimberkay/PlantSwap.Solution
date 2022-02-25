@@ -23,3 +23,8 @@ Feb-24-22
 8:30 - 9:00 Added columns to google sheets before getting ready to import csv into mySqul. Sheets need a lot of work (entries) but I finally have a good structure to follow. Will import sheet today to create table but will end up filling in many, many more swaps and re-importing the csv again.
 
 10:45 - 11:30 Prep sheet before import and initial migration
+
+11:30 - 1:00 lunch/walk
+
+
+
