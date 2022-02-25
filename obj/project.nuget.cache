@@ -1,15 +1,33 @@
 {
   "version": 2,
-  "dgSpecHash": "jZhvv4jPkVOlogMR9xlMNYhCCpkhqRlxv4ocTLGRp1ZSle+rBSc/AKqIZ+rgai1ZeFObsUTPzm9T2Xp0NSiBpg==",
+  "dgSpecHash": "1c7GLFlLIsqmQy0kCFDKAi8ZLAvseVBJ+mq8bF5HY1zuP8qNzlYtMsx01s4kd3NzHeXmj545tzqGIB0T3YGcRA==",
   "success": true,
   "projectFilePath": "/Users/kimbrannian/Desktop/PlantSwap.Solution/PlantSwap/PlantSwap.csproj",
   "expectedPackageFiles": [
+    "/Users/kimbrannian/.nuget/packages/microsoft.entityframeworkcore/5.0.0/microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.0/microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.0/microsoft.entityframeworkcore.analyzers.5.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.0/microsoft.entityframeworkcore.relational.5.0.0.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/microsoft.extensions.caching.memory/5.0.0/microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.0/microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/microsoft.extensions.logging/5.0.0/microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/mysqlconnector/1.1.0/mysqlconnector.1.1.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/pomelo.entityframeworkcore.mysql/5.0.0-alpha.2/pomelo.entityframeworkcore.mysql.5.0.0-alpha.2.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "/Users/kimbrannian/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "/Users/kimbrannian/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "/Users/kimbrannian/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/kimbrannian/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
