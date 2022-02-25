@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Cors;
 using PlantSwap.Models;
 
-namespace HikingTrail.Controllers
+namespace PlantSwap.Controllers
 {
   [Route("api/[controller]")]
   [ApiController]
