@@ -1,4 +1,4 @@
-namespace Swap.Models
+namespace PlantSwap.Models
 {
   public class Swap
   {
