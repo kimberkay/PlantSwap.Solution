@@ -11,7 +11,6 @@ namespace PlantSwap.Models
         }
 
         public DbSet<Swap> Swaps { get; set; }
-
     }
 
 }
