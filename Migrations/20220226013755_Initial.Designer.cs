@@ -8,7 +8,7 @@ using PlantSwap.Models;
 namespace PlantSwap.Migrations
 {
     [DbContext(typeof(PlantSwapContext))]
-    [Migration("20220226010243_Initial")]
+    [Migration("20220226013755_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
