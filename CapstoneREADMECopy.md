@@ -28,4 +28,9 @@ Feb-24-22
 
 1:00 - 2:00 add a few test items to a sheet following swap model to import into API to call in Postman
 
+2:30 - 4:45 dubug imports, csv isn't importing correctly, migrations not working. API does connect to Postman but returns empty response.
+
+
+
+
 
