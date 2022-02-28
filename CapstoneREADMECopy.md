@@ -32,6 +32,8 @@ Feb-24-22
 
 8:45 - 9:15 got test google sheet to import in mysql and had successful call on Postman.
 
+9:00 - 9:15 watch tutorial on react api queries on youtube
+
 
 
 
