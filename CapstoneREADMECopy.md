@@ -42,12 +42,7 @@ Feb-24-22
 
 11:00 - 11:30 not feeling well, need an early lunch a rest, WIP
 
-<!-- 
-const swapReveal = (results) => {
-    for(i = 0;i<results.length;i++){
-        if((results[i].ingredientToSwap === "chicken") && (results[i].cuisineType === "Thai")){
-            return results[i];
-        }
-    }
-} -->
+1:00 - edit sheets for content
+
+
 
