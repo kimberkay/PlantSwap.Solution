@@ -34,7 +34,17 @@ Feb-24-22
 
 9:00 - 9:15 watch tutorial on react api queries on youtube
 
+3-8-2022
+
+9:30 - 10:00 edit and create content in google sheet to get API ready to upload to Azure
 
 
-
+<!-- 
+const swapReveal = (results) => {
+    for(i = 0;i<results.length;i++){
+        if((results[i].ingredientToSwap === "chicken") && (results[i].cuisineType === "Thai")){
+            return results[i];
+        }
+    }
+} -->
 

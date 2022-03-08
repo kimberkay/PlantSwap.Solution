@@ -1,3 +1,5 @@
+using System.Reflection;
+using System.IO;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -6,8 +8,6 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using System;
-using System.Reflection;
-using System.IO;
 using PlantSwap.Models;
 
 namespace PlantSwap
