@@ -38,6 +38,7 @@ Feb-24-22
 
 9:30 - 10:00 edit and create content in google sheet to get API ready to upload to Azure
 
+10:30 - 11:00 edit and create content in google sheet
 
 <!-- 
 const swapReveal = (results) => {
