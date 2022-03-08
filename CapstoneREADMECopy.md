@@ -42,7 +42,8 @@ Feb-24-22
 
 11:00 - 11:30 not feeling well, need an early lunch a rest, WIP
 
-1:00 - edit sheets for content
+1:00 - 2:20 edit sheets for content
 
+2:20 - 3:20 edit sheets for content 
 
 
