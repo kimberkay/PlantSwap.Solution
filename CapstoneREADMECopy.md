@@ -40,6 +40,8 @@ Feb-24-22
 
 10:30 - 11:00 edit and create content in google sheet
 
+11:00 - 11:30 not feeling well, need an early lunch a rest, WIP
+
 <!-- 
 const swapReveal = (results) => {
     for(i = 0;i<results.length;i++){
