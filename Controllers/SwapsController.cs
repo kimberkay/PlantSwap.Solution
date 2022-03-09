@@ -41,6 +41,7 @@ namespace PlantSwap.Controllers
     }
 
     // GET: api/swaps/1
+    [EnableCors("outside")]
     [HttpGet("{id}")]
     public async Task<ActionResult<Swap>>GetSwap(int id)
     {

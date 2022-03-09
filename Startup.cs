@@ -30,7 +30,8 @@ namespace PlantSwap
 
         services.AddCors(options =>
         {
-         options.AddDefaultPolicy(builder=>builder.WithOrigins("Https://localhost:5002"));
+         options.AddDefaultPolicy(builder=>builder.WithOrigins("Https://localhost/*",
+                                                                "Http://localhost/*"));
          options.AddPolicy("outside", builder => builder.AllowAnyOrigin());
         });
 
